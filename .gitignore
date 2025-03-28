@@ -1,0 +1,9 @@
+*.qcow2
+*.img
+*.iso
+*.vdi
+*.vmdk
+*.log
+*.bak
+*.tmp
+__pycache__/
